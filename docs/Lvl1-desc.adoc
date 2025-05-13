@@ -1,0 +1,44 @@
+
+// tag::Lvl[]
+[.lvl]#SDV level 1#
+// end::Lvl[]
+
+// tag::Lvlname[]
+Connected
+// end::Lvlname[]
+
+// tag::Experience[]
+Information and control via connectivity
+// end::Experience[]
+
+// tag::Adaptability[]
+* Static software
+* Dynamic environment
+// end::Adaptability[]
+
+// tag::Examples[]
+* Live traffic information
+* Mobile phone companion app
+// end::Examples[]
+
+// tag::EEarchEnablers[]
+* Central connectivity unit
+* Mobile connection
+* Microprocessor-based ECUs
+Infotainment system with display and touch control
+// end::EEarchEnablers[]
+
+// tag::SWarchEnablers[]
+* High-level operating systems
+* Internet communication
+* Layered security architecture
+// end::SWarchEnablers[]
+
+// tag::DevEnablers[]
+* Convergence of internet technology and in-vehicle software
+// end::DevEnablers[]
+
+// tag::BizEnablers[]
+* Subscription for long-term use of services
+* Maintenance contracts with data providers
+// end::BizEnablers[]

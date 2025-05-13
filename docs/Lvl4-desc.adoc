@@ -1,0 +1,39 @@
+
+// tag::Lvl[]
+[.lvl]#SDV level 4#
+// end::Lvl[]
+
+// tag::Lvlname[]
+Software Platform
+// end::Lvlname[]
+
+// tag::Experience[]
+Car always feels new via cross- generation software upgrades
+// end::Experience[]
+
+// tag::Adaptability[]
+* Singular software provider
+* Dynamic target hardware
+// end::Adaptability[]
+
+// tag::Examples[]
+* New function delivered to all vehicle generations
+// end::Examples[]
+
+// tag::EEarchEnablers[]
+* Reduction of hardware variants across vehicles and vehicle generations
+// end::EEarchEnablers[]
+
+// tag::SWarchEnablers[]
+* SDK with version and variant handling
+* Hardware-independent applications
+// end::SWarchEnablers[]
+
+// tag::DevEnablers[]
+* Controlled deprecation of software and API versions
+// end::DevEnablers[]
+
+// tag::BizEnablers[]
+* Subscription for platform upgrades
+* Decoupling of vehicle and software platform business
+// end::BizEnablers[]
