@@ -1,0 +1,41 @@
+
+// tag::Lvl[]
+[.lvl]#SDV level 2#
+// end::Lvl[]
+
+// tag::Lvlname[]
+Updateable
+// end::Lvlname[]
+
+// tag::Experience[]
+Vehicle maintenance via OTA updates
+// end::Experience[]
+
+// tag::Adaptability[]
+* Static functionality
+* Dynamic software
+// end::Adaptability[]
+
+// tag::Examples[]
+* Navigation update
+* Security patches
+// end::Examples[]
+
+// tag::EEarchEnablers[]
+* A/B memory on ECUs
+* Limited over-allocation of hardware resources
+// end::EEarchEnablers[]
+
+// tag::SWarchEnablers[]
+* In-vehicle update verification
+* Dynamic operating systems
+* Partially updateable ECU architecture
+// end::SWarchEnablers[]
+
+// tag::DevEnablers[]
+// end::DevEnablers[]
+
+// tag::BizEnablers[]
+* Subscription for updates
+* Maintenance contracts with ECU suppliers
+// end::BizEnablers[]

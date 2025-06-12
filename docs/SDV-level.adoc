@@ -1,0 +1,142 @@
+= Levels of Software-defined Vehicles
+
+:stylesheet: stylesheet.css
+
+[%header,cols="h,6*"]
+|===
+|
+|
+include::Lvl0-desc.adoc[tag=Lvl]
+ +
+include::Lvl0-desc.adoc[tag=Lvlname]
+|
+include::Lvl1-desc.adoc[tag=Lvl]
+ +
+include::Lvl1-desc.adoc[tag=Lvlname]
+|
+include::Lvl2-desc.adoc[tag=Lvl]
+ +
+include::Lvl2-desc.adoc[tag=Lvlname]
+|
+include::Lvl3-desc.adoc[tag=Lvl]
+ +
+include::Lvl3-desc.adoc[tag=Lvlname]
+|
+include::Lvl4-desc.adoc[tag=Lvl]
+ +
+include::Lvl4-desc.adoc[tag=Lvlname]
+|
+include::Lvl5-desc.adoc[tag=Lvl]
+ +
+include::Lvl5-desc.adoc[tag=Lvlname]
+
+
+h|
+Customer Experience
+a|
+include::Lvl0-desc.adoc[tag=Experience]
+a|
+include::Lvl1-desc.adoc[tag=Experience]
+a|
+include::Lvl2-desc.adoc[tag=Experience]
+a|
+include::Lvl3-desc.adoc[tag=Experience]
+a|
+include::Lvl4-desc.adoc[tag=Experience]
+a|
+include::Lvl5-desc.adoc[tag=Experience]
+
+h|
+Scope of adaptability and dynamics
+a|
+include::Lvl0-desc.adoc[tag=Adaptability]
+a|
+include::Lvl1-desc.adoc[tag=Adaptability]
+a|
+include::Lvl2-desc.adoc[tag=Adaptability]
+a|
+include::Lvl3-desc.adoc[tag=Adaptability]
+a|
+include::Lvl4-desc.adoc[tag=Adaptability]
+a|
+include::Lvl5-desc.adoc[tag=Adaptability]
+
+h|
+Example
+a|
+include::Lvl0-desc.adoc[tag=Examples]
+a|
+include::Lvl1-desc.adoc[tag=Examples]
+a|
+include::Lvl2-desc.adoc[tag=Examples]
+a|
+include::Lvl3-desc.adoc[tag=Examples]
+a|
+include::Lvl4-desc.adoc[tag=Examples]
+a|
+include::Lvl5-desc.adoc[tag=Examples]
+
+h|Optional Domain restriction
+6.+|
+Example: SDV level 4 for cockpit domain
+
+h|
+EE architecture enablers
+a|
+include::Lvl0-desc.adoc[tag=EEarchEnablers]
+a|
+include::Lvl1-desc.adoc[tag=EEarchEnablers]
+a|
+include::Lvl2-desc.adoc[tag=EEarchEnablers]
+a|
+include::Lvl3-desc.adoc[tag=EEarchEnablers]
+a|
+include::Lvl4-desc.adoc[tag=EEarchEnablers]
+a|
+include::Lvl5-desc.adoc[tag=EEarchEnablers]
+
+h|
+Software architecture enablers
+a|
+include::Lvl0-desc.adoc[tag=SWarchEnablers]
+a|
+include::Lvl1-desc.adoc[tag=SWarchEnablers]
+a|
+include::Lvl2-desc.adoc[tag=SWarchEnablers]
+a|
+include::Lvl3-desc.adoc[tag=SWarchEnablers]
+a|
+include::Lvl4-desc.adoc[tag=SWarchEnablers]
+a|
+include::Lvl5-desc.adoc[tag=SWarchEnablers]
+
+h|
+Development enablers
+a|
+include::Lvl0-desc.adoc[tag=DevEnablers]
+a|
+include::Lvl1-desc.adoc[tag=DevEnablers]
+a|
+include::Lvl2-desc.adoc[tag=DevEnablers]
+a|
+include::Lvl3-desc.adoc[tag=DevEnablers]
+a|
+include::Lvl4-desc.adoc[tag=DevEnablers]
+a|
+include::Lvl5-desc.adoc[tag=DevEnablers]
+
+h|
+Business enablers
+a|
+include::Lvl0-desc.adoc[tag=BizEnablers]
+a|
+include::Lvl1-desc.adoc[tag=BizEnablers]
+a|
+include::Lvl2-desc.adoc[tag=BizEnablers]
+a|
+include::Lvl3-desc.adoc[tag=BizEnablers]
+a|
+include::Lvl4-desc.adoc[tag=BizEnablers]
+a|
+include::Lvl5-desc.adoc[tag=BizEnablers]
+|=== 

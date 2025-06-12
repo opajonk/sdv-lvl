@@ -1,0 +1,41 @@
+
+// tag::Lvl[]
+[.lvl]#SDV level 3#
+// end::Lvl[]
+
+// tag::Lvlname[]
+Upgradeable
+// end::Lvlname[]
+
+// tag::Experience[]
+New functions via software upgrades
+// end::Experience[]
+
+// tag::Adaptability[]
+* Static target hardware
+* Dynamic functionality
+// end::Adaptability[]
+
+// tag::Examples[]
+* New function in a single car line
+// end::Examples[]
+
+// tag::EEarchEnablers[]
+* Zonal architectures with reduced number of ECUs
+// end::EEarchEnablers[]
+
+// tag::SWarchEnablers[]
+* Service-oriented architectures
+* Virtualization
+* Containerization
+// end::SWarchEnablers[]
+
+// tag::DevEnablers[]
+* Automated CI/CT/CD environments
+* Virtual testing
+// end::DevEnablers[]
+
+// tag::BizEnablers[]
+* Aftermarket revenue generation for new functions 
+* OEMs directly sourcing or developing  software  platform
+// end::BizEnablers[]

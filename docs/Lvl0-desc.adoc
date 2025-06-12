@@ -1,0 +1,36 @@
+
+// tag::Lvl[]
+[.lvl]#SDV level 0#
+// end::Lvl[]
+
+// tag::Lvlname[]
+Software-enabled
+// end::Lvlname[]
+
+// tag::Experience[]
+Mechanical functions made possible via software
+// end::Experience[]
+
+// tag::Adaptability[]
+* No Updates
+* No Connectivity
+// end::Adaptability[]
+
+// tag::Examples[]
+* Parking assistance
+* Adaptive cruise control
+// end::Examples[]
+
+// tag::EEarchEnablers[]
+* Microcontroller-based ECUs
+* In-vehicle networks
+// end::EEarchEnablers[]
+
+// tag::SWarchEnablers[]
+// end::SWarchEnablers[]
+
+// tag::DevEnablers[]
+// end::DevEnablers[]
+
+// tag::BizEnablers[]
+// end::BizEnablers[]
